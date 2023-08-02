@@ -12,4 +12,4 @@ This is Dayao's home on the web!
 
 
 
-Lorem ipsum.
+Dayao Ji.
