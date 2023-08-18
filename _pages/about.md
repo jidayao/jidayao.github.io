@@ -19,7 +19,7 @@ Da-Yao Ji的学者主页
 论文 Papers
 ------
 
-#### 0001.跨固件平台升级系统的研究
+**0001.跨固件平台升级系统的研究**
 
 **A Unified Cross-Firmware Platform Upgrade System**
 
@@ -29,7 +29,7 @@ Da-Yao Ji的学者主页
 
 
 
-#### 0002.AIoT设备高可靠固件升级引擎的研究
+**0002.AIoT设备高可靠固件升级引擎的研究**
 
 **A Highly Reliable Firmware Update Engine for AIoT Device**
 
@@ -39,7 +39,7 @@ Da-Yao Ji的学者主页
 
 
 
-#### 0003.GFUAeD：一种嵌入式设备的通用固件升级方法
+**0003.GFUAeD：一种嵌入式设备的通用固件升级方法**
 
 纪大峣.GFUAeD:一种嵌入式设备的通用固件升级方法[J].福建电脑,2018,34(06):122-128.DOI:10.16707/j.cnki.fjpc.2018.06.061.
 
@@ -49,7 +49,7 @@ Da-Yao Ji的学者主页
 
 ## 发明专利 Invention patent
 
-#### 0001.CN116483404A 升级隐藏分区固件的方法、电子设备和存储介质
+**0001.CN116483404A 升级隐藏分区固件的方法、电子设备和存储介质**
 
 **Method for upgrading hidden partition firmware, electronic equipment and storage medium**
 
@@ -63,7 +63,7 @@ https://patents.google.com/patent/CN116483404A/en
 
 
 
-#### 0002.CN116204867A 升级签名固件的方法、电子设备和存储介质
+**0002.CN116204867A 升级签名固件的方法、电子设备和存储介质**
 
 **Method for upgrading signature firmware, electronic equipment and storage medium**
 
