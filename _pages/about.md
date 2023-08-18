@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is Dayao's home on the web!
+This is Dayao's home on the web! Pages
+
+Da-Yao Ji的学者主页
 
 
 
 论文Papers
 ======
+
+0001.GFUAeD：一种嵌入式设备的通用固件升级方法 XX
 
 0001.GFUAeD：一种嵌入式设备的通用固件升级方法
 
