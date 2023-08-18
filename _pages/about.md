@@ -51,13 +51,25 @@ Da-Yao Ji的学者主页
 
 #### 0001.CN116483404A 升级隐藏分区固件的方法、电子设备和存储介质
 
+**Method for upgrading hidden partition firmware, electronic equipment and storage medium**
+
+https://patents.google.com/patent/CN116483404A/en
+
 [升级隐藏分区固件的方法、电子设备和存储介质 - - 专利顾如 (patentguru.com)](https://www.patentguru.com/cn/CN116483404A)
 
 [202310389117.2 - 升级隐藏分区固件的方法、电子设备和存储介质 - SooPAT专利搜索](http://www.soopat.com/Patent/202310389117)
 
-**Method for upgrading hidden partition firmware, electronic equipment and storage medium**
 
-https://patents.google.com/patent/CN116483404A/en
+
+
+
+#### 0002.CN116204867A 升级签名固件的方法、电子设备和存储介质
+
+**Method for upgrading signature firmware, electronic equipment and storage medium**
+
+https://patents.google.com/patent/CN116204867A/en
+
+http://www.soopat.com/Patent/202310025373
 
 
 
