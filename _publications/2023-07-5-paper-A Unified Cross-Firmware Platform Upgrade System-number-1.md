@@ -6,12 +6,10 @@ excerpt: 'Android固件平台的平台固件承载着SoC芯片原厂对固件平
 date: 2023-07-05
 venue: 'Journal of Fujian Computer'
 paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=KaAwsYWd1tJTI6FGZBFnW0pFaTQSHWdpq6shx8TvmFPkkUbnH-4o5clV-TkEQjPnVzIj2P2z1aiiZ5nRDZRkpHG32asIpkDfBTWqbYbN7yGj4-tpb1x2H_M7NeP6WkUM-9OWVfaWs1mv-eRySc6r5Q==&uniplatform=NZKPT&language=CHS'
-citation: '纪大峣. (2009). &quot;跨固件平台升级系统的研究.&quot; <i>福建电脑</i>. 39(07).'
-citation: 'Dayao Ji. (2009). &quot;A Unified Cross-Firmware Platform Upgrade System.&quot; <i>Journal of Fujian Computer</i>. 39(07).'
+citation: '纪大峣. (2023). &quot;跨固件平台升级系统的研究.&quot; <i>福建电脑</i>. 39(07).'
+citation: 'Dayao Ji. (2023). &quot;A Unified Cross-Firmware Platform Upgrade System.&quot; <i>Journal of Fujian Computer</i>. 39(07).'
 ---
 **跨固件平台升级系统的研究**
-
-Android固件平台的平台固件承载着SoC芯片原厂对固件平台的最新研究成果。如何在Android跨大版本升级时在保留用户数据的同时升级对应新版本Android固件平台的系统固件和平台固件是Android跨大版本升级的核心问题。此外如何避免端到端的定制开发，是解决设备厂商Android跨大版本升级困境的关键。为此，本文提出一种统一的跨固件平台升级系统，通过对Android固件平台的Android系统固件和平台固件进行统一的多平台兼容设计在一个固件平台上实现统一的跨固件平台升级系统，有效解决现有方法无法在保留用户数据的基础上同步升级对应新版本Android固件平台的平台固件问题和大量端到端定制开发导致的维护问题。实验结果验证了该方法能够在升级后保留用户数据并实现固件平台的完全升级，同时无缝支持将多个旧版本Android固件平台升级到新版本Android固件平台，已经在大规模设备上广泛应用
 
 **摘要**：Android固件平台的平台固件承载着SoC芯片原厂对固件平台的最新研究成果。如何在Android跨大版本升级时在保留用户数据的同时升级对应新版本Android固件平台的系统固件和平台固件是Android跨大版本升级的核心问题。此外如何避免端到端的定制开发，是解决设备厂商Android跨大版本升级困境的关键。为此，本文提出一种统一的跨固件平台升级系统，通过对Android固件平台的Android系统固件和平台固件进行统一的多平台兼容设计在一个固件平台上实现统一的跨固件平台升级系统，有效解决现有方法无法在保留用户数据的基础上同步升级对应新版本Android固件平台的平台固件问题和大量端到端定制开发导致的维护问题。实验结果验证了该方法能够在升级后保留用户数据并实现固件平台的完全升级，同时无缝支持将多个旧版本Android固件平台升级到新版本Android固件平台，已经在大规模设备上广泛应用。
 
@@ -24,6 +22,8 @@ Android固件平台的平台固件承载着SoC芯片原厂对固件平台的最�
 
 
 [Download paper here](https://kns.cnki.net/kcms2/article/abstract?v=KaAwsYWd1tJTI6FGZBFnW0pFaTQSHWdpq6shx8TvmFPkkUbnH-4o5clV-TkEQjPnVzIj2P2z1aiiZ5nRDZRkpHG32asIpkDfBTWqbYbN7yGj4-tpb1x2H_M7NeP6WkUM-9OWVfaWs1mv-eRySc6r5Q==&uniplatform=NZKPT&language=CHS)
+
+
 
 **Recommended citation:** 
 
