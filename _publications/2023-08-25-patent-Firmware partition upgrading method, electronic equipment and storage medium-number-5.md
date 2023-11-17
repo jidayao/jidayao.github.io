@@ -6,8 +6,8 @@ excerpt: '本发明公开了固件分区升级方法、电子设备和存储介�
 date: 2023-08-25
 venue: '发明专利 Invention patent'
 paperurl: 'https://patents.google.com/patent/CN116643770A'
-citation: '纪大峣. (2023). &quot;固件分区升级方法、电子设备和存储介质.&quot; <i>发明专利</i>. CN116643770A.'
-citation: 'Dayao Ji. (2023). &quot;Firmware partition upgrading method, electronic equipment and storage medium.&quot; <i>Invention patent</i>. CN116643770A.'
+citation: '纪大峣. (2023). &quot;固件分区升级方法、电子设备和存储介质.&quot; <i>专利</i>. CN116643770A.'
+citation: 'Dayao Ji. (2023). &quot;Firmware partition upgrading method, electronic equipment and storage medium.&quot; <i>China patent</i>. CN116643770A.'
 ---
 **固件分区升级方法、电子设备和存储介质**
 

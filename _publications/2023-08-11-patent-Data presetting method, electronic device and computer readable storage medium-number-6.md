@@ -6,8 +6,8 @@ excerpt: '本发明公开了数据预置方法、电子设备和计算机可读�
 date: 2023-08-25
 venue: '发明专利 Invention patent'
 paperurl: 'https://patents.google.com/patent/CN116578307A'
-citation: '纪大峣. (2023). &quot;数据预置方法、电子设备和计算机可读存储介质.&quot; <i>发明专利</i>. CN116578307A.'
-citation: 'Dayao Ji. (2023). &quot;Data presetting method, electronic device and computer readable storage medium.&quot; <i>Invention patent</i>. CN116578307A.'
+citation: '纪大峣. (2023). &quot;数据预置方法、电子设备和计算机可读存储介质.&quot; <i>专利</i>. CN116578307A.'
+citation: 'Dayao Ji. (2023). &quot;Data presetting method, electronic device and computer readable storage medium.&quot; <i>China patent</i>. CN116578307A.'
 ---
 **数据预置方法、电子设备和计算机可读存储介质**
 

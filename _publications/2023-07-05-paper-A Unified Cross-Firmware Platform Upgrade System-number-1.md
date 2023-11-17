@@ -1,7 +1,7 @@
 ---
 title: "跨固件平台升级系统的研究"
 collection: publications
-permalink: /publication/2023-07-5-paper-A Unified Cross-Firmware Platform Upgrade System-number-1
+permalink: /publication/2023-07-05-paper-A Unified Cross-Firmware Platform Upgrade System-number-1
 excerpt: 'Android固件平台的平台固件承载着SoC芯片原厂对固件平台的最新研究成果。如何在Android跨大版本升级时在保留用户数据的同时升级对应新版本Android固件平台的系统固件和平台固件是Android跨大版本升级的核心问题。此外如何避免端到端的定制开发，是解决设备厂商Android跨大版本升级困境的关键。为此，本文提出一种统一的跨固件平台升级系统，通过对Android固件平台的Android系统固件和平台固件进行统一的多平台兼容设计在一个固件平台上实现统一的跨固件平台升级系统，有效解决现有方法无法在保留用户数据的基础上同步升级对应新版本Android固件平台的平台固件问题和大量端到端定制开发导致的维护问题。实验结果验证了该方法能够在升级后保留用户数据并实现固件平台的完全升级，同时无缝支持将多个旧版本Android固件平台升级到新版本Android固件平台，已经在大规模设备上广泛应用.'
 date: 2023-07-05
 venue: 'Journal of Fujian Computer'
