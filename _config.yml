@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "纪大峣（Dayao Ji） / Dayao's Scholar Page"
+title                    : "Dayao Ji/ Dayao's Scholar Page"
 title_separator          : "-"
-name                     : &name "纪大峣（Dayao Ji）"
+name                     : &name "Dayao Ji"
 description              : &description "Senior Engineer at Rockchip"
 url                      : https://jidayao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "纪大峣（Dayao Ji）"
+  name             : "Dayao Ji"
   avatar           : "profile.png"
   bio              : "Senior Engineer at Rockchip"
   location         : "Fuzhou, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=SoXsPRsAAAAJ"
-  baiduscholar    : "https://xueshu.baidu.com/scholarID/CN-BQK8610K"
-  cnkischolar    : "https://au.cnki.net/author/personalInfo/000056990242"
   email            : "jdy@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
