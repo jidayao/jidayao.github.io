@@ -12,7 +12,7 @@ redirect_from:
 
 **纪大峣，工程师、发明家、学者**。
 
-[谷歌学术](https://scholar.google.com/citations?user=SoXsPRsAAAAJ)     [百度学术](https://xueshu.baidu.com/scholarID/CN-BQK8610K)     [知网学者主页](https://au.cnki.net/author/personalInfo/000056990242) 
+[谷歌学术](https://scholar.google.com/citations?user=SoXsPRsAAAAJ)     [百度学术](https://xueshu.baidu.com/scholarID/CN-BQK8610K)     [知网学者主页](https://au.cnki.net/author/personalInfo/000056990242)     [谷歌专利](https://patents.google.com/?inventor=%E7%BA%AA%E5%A4%A7%E5%B3%A3) 
 
 **谷歌学术**：https://scholar.google.com/citations?user=SoXsPRsAAAAJ
 
@@ -24,7 +24,7 @@ redirect_from:
 
 **Dayao Ji (Da-Yao Ji, Da-Yao Ji),  is an engineer, inventor and scholar.**
 
-[谷歌学术](https://scholar.google.com/citations?user=SoXsPRsAAAAJ)     [百度学术](https://xueshu.baidu.com/scholarID/CN-BQK8610K)     [知网学者主页](https://au.cnki.net/author/personalInfo/000056990242) 
+[Google Scholar](https://scholar.google.com/citations?user=SoXsPRsAAAAJ)     [Baidu Scholar](https://xueshu.baidu.com/scholarID/CN-BQK8610K)     [CNKI Scholar](https://au.cnki.net/author/personalInfo/000056990242)     [Google Patent](https://patents.google.com/?inventor=%E7%BA%AA%E5%A4%A7%E5%B3%A3) 
 
 **Google Scholar:** https://scholar.google.com/citations?user=SoXsPRsAAAAJ
 
