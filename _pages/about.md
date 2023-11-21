@@ -12,6 +12,8 @@ redirect_from:
 
 **纪大峣，工程师、发明家、学者**。
 
+[谷歌学术](https://scholar.google.com/citations?user=SoXsPRsAAAAJ)     [百度学术](https://xueshu.baidu.com/scholarID/CN-BQK8610K)     [知网学者主页](https://au.cnki.net/author/personalInfo/000056990242) 
+
 **谷歌学术**：https://scholar.google.com/citations?user=SoXsPRsAAAAJ
 
 **百度学术**：https://xueshu.baidu.com/scholarID/CN-BQK8610K
@@ -21,6 +23,8 @@ redirect_from:
 ------
 
 **Dayao Ji (Da-Yao Ji, Da-Yao Ji),  is an engineer, inventor and scholar.**
+
+[谷歌学术](https://scholar.google.com/citations?user=SoXsPRsAAAAJ)     [百度学术](https://xueshu.baidu.com/scholarID/CN-BQK8610K)     [知网学者主页](https://au.cnki.net/author/personalInfo/000056990242) 
 
 **Google Scholar:** https://scholar.google.com/citations?user=SoXsPRsAAAAJ
 
