@@ -11,49 +11,63 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Fuzhou University, 2008
-* M.S. in Computer Technology, Zhejiang University, 2019
-* Ph.D in Computer Science and Technology, GitHub University, 2018 (expected)
+* 本科，福州大学 / 软件工程，全日制
+* 硕士研究生，浙江大学 / 计算机技术，全日制
+
+
+
+* B.S. in Software Engineering, Fuzhou University
+* M.S. in Computer Technology, Zhejiang University
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019.07~至今: 高级工程师
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * 瑞芯微电子股份有限公司
+  
+* 2014.09~2016.08: 高级工程师
+  
+  * 瑞芯微电子股份有限公司
+  
+* 2014.05~2014.08: 高级工程师
+  
+  * 福建网龙网络有限公司
+  
+* 2008.07~2014.04: 工程师
+  
+  * 福建星网锐捷通讯股份有限公司
+  
+    
+
+
+* 2019.07~Now: Senior Engineer
+  * Rockchips Electronics CO., Ltd 
+  
+* 2014.09~2016.08: Senior Engineer
+  * Rockchips Electronics CO., Ltd 
+  
+* 2014.05~2014.08: Senior Engineer
+  * NetDragon Websoft Inc
+  
+* 2008.07~2014.04: Engineer
+  * Fujian Star-net Communication Co., Ltd
+  
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+
+Professional Qualification
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 高级工程师，2019年12月23日，福建省人力资源和社会保障厅
+* 系统架构设计师，2012年11月10，中华人民共和国人力资源和社会保障部，中华人民共和国工业和信息化部
+* 软件设计师，2007年05月26，中华人民共和国人力资源和社会保障部，中华人民共和国工业和信息化部
+
+
+
+* Senior Engineer，December 23, 2019，Fujian Provincial Department of Human Resources and Social Security
+* System Architect，November 10, 2012，Ministry of Human Resources and Social Security of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China
+* Software Design Engineer，May 26,2007，Ministry of Human Resources and Social Security of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China
