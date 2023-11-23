@@ -22,49 +22,38 @@ Education
 
 Professional Qualification
 ======
-* 高级工程师，2019年12月23日，福建省人力资源和社会保障厅
-* 系统架构设计师，2012年11月10，中华人民共和国人力资源和社会保障部，中华人民共和国工业和信息化部
-* 软件设计师，2007年05月26，中华人民共和国人力资源和社会保障部，中华人民共和国工业和信息化部
+* **[1]** 高级工程师，2019年12月23日，福建省人力资源和社会保障厅
+* **[2]** 系统架构设计师，2012年11月10，中华人民共和国人力资源和社会保障部，中华人民共和国工业和信息化部
+* **[3]** 软件设计师，2007年05月26，中华人民共和国人力资源和社会保障部，中华人民共和国工业和信息化部
 
 
 
-* Senior Engineer，December 23, 2019，Fujian Provincial Department of Human Resources and Social Security
-* System Architect，November 10, 2012，Ministry of Human Resources and Social Security of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China
-* Software Design Engineer，May 26,2007，Ministry of Human Resources and Social Security of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China
+* **[1]** Senior Engineer，December 23, 2019，Fujian Provincial Department of Human Resources and Social Security
+* **[2]** System Architect，November 10, 2012，Ministry of Human Resources and Social Security of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China
+* **[3]** Software Design Engineer，May 26,2007，Ministry of Human Resources and Social Security of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China
 
 
 Work experience
 ======
-* 2019.07~至今: 高级工程师
+* 2019.07~至今: 高级工程师，瑞芯微电子股份有限公司
   
-  * 瑞芯微电子股份有限公司
+* 2014.09~2016.08: 高级工程师，瑞芯微电子股份有限公司
   
-* 2014.09~2016.08: 高级工程师
+* 2014.05~2014.08: 高级工程师，福建网龙网络有限公司
   
-  * 瑞芯微电子股份有限公司
+* 2008.07~2014.04: 工程师，福建星网锐捷通讯股份有限公司
   
-* 2014.05~2014.08: 高级工程师
   
-  * 福建网龙网络有限公司
-  
-* 2008.07~2014.04: 工程师
-  
-  * 福建星网锐捷通讯股份有限公司
-  
-    
 
 
-* 2019.07~Now: Senior Engineer
-  * Rockchips Electronics CO., Ltd 
+* 2019.07~Now: Senior Engineer, Rockchips Electronics CO., Ltd
   
-* 2014.09~2016.08: Senior Engineer
-  * Rockchips Electronics CO., Ltd 
+* 2014.09~2016.08: Senior Engineer, Rockchips Electronics CO., Ltd
   
-* 2014.05~2014.08: Senior Engineer
-  * NetDragon Websoft Inc
+* 2014.05~2014.08: Senior Engineer, NetDragon Websoft Inc
   
-* 2008.07~2014.04: Engineer
-  * Fujian Star-net Communication Co., Ltd
+* 2008.07~2014.04: Engineer, Fujian Star-net Communication Co., Ltd
+  
   
 
 Publications
