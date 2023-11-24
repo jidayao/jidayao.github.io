@@ -23,14 +23,16 @@ Education
 Professional Qualification
 ======
 * **[1]** 高级工程师，2019年12月23日，福建省人力资源和社会保障厅
-* **[2]** 系统架构设计师，2012年11月10，中华人民共和国人力资源和社会保障部，中华人民共和国工业和信息化部
-* **[3]** 软件设计师，2007年05月26，中华人民共和国人力资源和社会保障部，中华人民共和国工业和信息化部
+* **[2]** 工程师，2013年12月23，福建省公务员局，福建省人力资源开发办公室
+* **[3]** 系统架构设计师，2012年11月10，中华人民共和国人力资源和社会保障部，中华人民共和国工业和信息化部
+* **[4]** 软件设计师，2007年05月26，中华人民共和国人力资源和社会保障部，中华人民共和国工业和信息化部
 
 
 
 * **[1]** Senior Engineer，December 23, 2019，Fujian Provincial Department of Human Resources and Social Security
-* **[2]** System Architect，November 10, 2012，Ministry of Human Resources and Social Security of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China
-* **[3]** Software Design Engineer，May 26,2007，Ministry of Human Resources and Social Security of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China
+* **[2]** Engineer，December 23, 2013，Fujian Provincial Administration of Civil Service, Fujian Provincial Human Resources Development Office
+* **[3]** System Architect，November 10, 2012，Ministry of Human Resources and Social Security of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China
+* **[4]** Software Design Engineer，May 26,2007，Ministry of Human Resources and Social Security of the People's Republic of China, Ministry of Industry and Information Technology of the People's Republic of China
 
 
 Work experience
